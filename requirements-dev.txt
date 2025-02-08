@@ -1,1 +1,1 @@
-chess.pgn
+chess
