@@ -26,7 +26,7 @@ def extract_lines_from_pgn(pgn_file):
 
 # Example usage
 #pgn_file = "/workspaces/python-dev-container-template/src/sample.pgn"
-pgn_file = "/workspaces/pgn-flattener/pgn/slavrep.pgn"
+pgn_file = "/workspaces/pgn-flattener/pgn/semislav-rep1.pgn"
 
 output = extract_lines_from_pgn(pgn_file)
 print(output)
